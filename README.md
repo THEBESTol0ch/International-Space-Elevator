@@ -7,11 +7,11 @@ You can download original map, blueprints, megaprint or map for a walkthrough fr
 v1.0<br/>
 *Map by:* THE_BESTol0ch
 
-Used mods:
-[Decoration](https://ficsit.app/mod/Decoration)
+Used mods:<br/>
+[Decoration](https://ficsit.app/mod/Decoration)<br/>
 [SkyUI](https://ficsit.app/mod/SkyUI)
 
-Used blueprints:
+Used blueprints:<br/>
 [Shipping container pack](https://www.reddit.com/r/SatisfactoryGame/comments/15tz4w8/shipping_container_pack/)
 
 > [!NOTE]
