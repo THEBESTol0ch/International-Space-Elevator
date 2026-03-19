@@ -4,12 +4,15 @@
 The goal of the project is to recreate the International Space Elevator from Ace Combat 7 in Satisfactory on a smaller scale, otherwise, the structure would be as large as the entire map in Satisfactory.
 You can download original map, blueprints, megaprint or map for a walkthrough from releases.
 
-v1.0
+v1.0<br/>
 *Map by:* THE_BESTol0ch
 
 Used mods:
 [Decoration](https://ficsit.app/mod/Decoration)
 [SkyUI](https://ficsit.app/mod/SkyUI)
+
+Used blueprints:
+[Shipping container pack](https://www.reddit.com/r/SatisfactoryGame/comments/15tz4w8/shipping_container_pack/)
 
 > [!NOTE]
 > In Satisfactory, it is not possible to transfer color swatches between saves, so you will have to manually assign swatch colors if you use a megaprint or maps for a walkthrough.
