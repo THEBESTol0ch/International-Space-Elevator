@@ -1,5 +1,6 @@
 # International-Space-Elevator
 ![Satisfactory ISE](https://github.com/user-attachments/assets/30374d81-4d8e-4ce0-ac36-9df44d66e729)
+https://youtu.be/MZha97rkJVI
 
 The goal of the project is to recreate the **International Space Elevator** from **Ace Combat 7** in **Satisfactory** on a smaller scale, otherwise, the structure would be as large as the entire map in **Satisfactory**.
 You can download **original map**, **blueprints**, **megaprint** or **map for a walkthrough** from **releases**.
