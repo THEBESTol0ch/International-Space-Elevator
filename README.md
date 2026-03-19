@@ -14,6 +14,22 @@ Used mods:<br/>
 Used blueprints:<br/>
 [Shipping container pack](https://www.reddit.com/r/SatisfactoryGame/comments/15tz4w8/shipping_container_pack/)
 
+> [!TIP]
+> ### Map installation
+> Paste ```%LOCALAPPDATA%\FactoryGame``` in your run command (Win + R).
+>  Then click Saved ----> SaveGames and you will see a folder with a long number ----> in that folder paste a map.
+>
+> ### Megaprint installation
+> 1. Upload your map to [Satisfactory Calculator Interactive Map](https://satisfactory-calculator.com/en/interactive-map)
+> 2. Click on the top left button **IMPORT/EXPORT A MEGAPRINT**.
+> 3. Upload a megaprint.
+> 4. Click on the top left button **PASTE MEGAPRINT IN THE ORIGINAL POSITION**.
+> 5. Download save game.
+> <img width="1887" height="1080" alt="image" src="https://github.com/user-attachments/assets/c2c6d4d7-dea4-4a04-b07e-eb96188ae441" />
+> ![msedge_vuDhOx0sO5](https://github.com/user-attachments/assets/140d3af1-af79-42f2-bae4-65070805a620)
+
+
+
 > [!NOTE]
 > In Satisfactory, it is not possible to transfer color swatches between saves, so you will have to manually assign swatch colors if you use a megaprint or maps for a walkthrough.
 >
