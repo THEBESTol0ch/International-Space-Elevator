@@ -1,8 +1,8 @@
 # International-Space-Elevator
 ![Satisfactory ISE](https://github.com/user-attachments/assets/30374d81-4d8e-4ce0-ac36-9df44d66e729)
 
-The goal of the project is to recreate the International Space Elevator from Ace Combat 7 in Satisfactory on a smaller scale, otherwise, the structure would be as large as the entire map in Satisfactory.
-You can download original map, blueprints, megaprint or map for a walkthrough from releases.
+The goal of the project is to recreate the **International Space Elevator** from **Ace Combat 7** in **Satisfactory** on a smaller scale, otherwise, the structure would be as large as the entire map in **Satisfactory**.
+You can download **original map**, **blueprints**, **megaprint** or **map for a walkthrough** from **releases**.
 
 v1.0<br/>
 *Map by:* THE_BESTol0ch
@@ -35,97 +35,97 @@ v1.0<br/>
 > In Satisfactory, it is not possible to transfer color swatches between saves, so you will have to manually assign swatch colors if you use a megaprint or maps for a walkthrough.
 >
 > ### Default
-> **FICSIT Factory Swatch**
-> `#3F3F3F`
+> **FICSIT Factory Swatch**<br/>
+> `#3F3F3F`<br/>
 > `#3F3F3F`
 >
-> **Project Assembly Swatch**
-> `#FA9649`
+> **Project Assembly Swatch**<br/>
+> `#FA9649`<br/>
 > `#5F668C`
 >
-> **FICSIT Foundation Swatch**
-> `#5D5D5D`
+> **FICSIT Foundation Swatch**<br/>
+> `#5D5D5D`<br/>
 > `#FA9649`
 >
-> **Concrete Structure Swatch**
-> `hsl(0,0,999)`
-> `hsl(0,0,999)`
+> **Concrete Structure Swatch**<br/>
+> `hsl(0, 0, 999)`<br/>
+> `hsl(0, 0, 999)`
 >
-> **Pipeline Swatch**
-> `#FA9649`
+> **Pipeline Swatch**<br/>
+> `#FA9649`<br/>
 > `#3F3F3F`
->
->
->
+><br/>
+><br/>
+><br/>
 > ### Swatches
-> **Swatch 1**
-> `#000000`
+> **Swatch 1**<br/>
+> `#000000`<br/>
 > `#F4B522`
 >
-> **Swatch 2**
-> `#FFFFFF`
+> **Swatch 2**<br/>
+> `#FFFFFF`<br/>
 > `#FFFFFF`
 >
-> **Swatch 3**
-> `#000000`
+> **Swatch 3**<br/>
+> `#000000`<br/>
 > `#000000`
 >
-> **Swatch 4**
-> `#FFFFFF`
+> **Swatch 4**<br/>
+> `#FFFFFF`<br/>
 > `#3D3D3D`
 >
-> **Swatch 5**
-> `#3F3F3F`
+> **Swatch 5**<br/>
+> `#3F3F3F`<br/>
 > `#FF9500`
 >
-> **Swatch 6**
-> `hsl(0,0,3)`
-> `hsl(0,0,3)`
+> **Swatch 6**<br/>
+> `hsl(0, 0, 3)`<br/>
+> `hsl(0, 0, 3)`
 >
-> **Swatch 7**
-> `#CB4747`
+> **Swatch 7**<br/>
+> `#CB4747`<br/>
 > `#CB4747`
 >
-> **Swatch 8**
-> `#F9E000`
+> **Swatch 8**<br/>
+> `#F9E000`<br/>
 > `#33AB9C`
 >
-> **Swatch 9**
-> `#FF9500`
+> **Swatch 9**<br/>
+> `#FF9500`<br/>
 > `#FF9500`
 >
-> **Swatch 10**
-> `#526280`
+> **Swatch 10**<br/>
+> `#526280`<br/>
 > `#444444`
 >
-> **Swatch 11**
-> `#959595`
+> **Swatch 11**<br/>
+> `#959595`<br/>
 > `#959595`
 >
-> **Swatch 12**
-> `#DEAF72`
+> **Swatch 12**<br/>
+> `#DEAF72`<br/>
 > `#815F3C`
 >
-> **Swatch 13**
-> `#573800`
+> **Swatch 13**<br/>
+> `#573800`<br/>
 > `#5B3B00`
 >
-> **Swatch 14**
-> `#A2B95B`
+> **Swatch 14**<br/>
+> `#A2B95B`<br/>
 > `#A3663D`
 >
-> **Swatch 15**
-> `#5F668C`
+> **Swatch 15**<br/>
+> `#5F668C`<br/>
 > `#FA9649`
 >
-> **Swatch 16**
-> `#6B3232`
+> **Swatch 16**<br/>
+> `#6B3232`<br/>
 > `#444444`
 >
-> **Swatch 17**
-> `#CB4747`
+> **Swatch 17**<br/>
+> `#CB4747`<br/>
 > `#CB4747`
 >
-> **Swatch 18**
-> `#2E69B0`
+> **Swatch 18**<br/>
+> `#2E69B0`<br/>
 > `#2E69B0`
