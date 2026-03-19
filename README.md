@@ -7,11 +7,11 @@ You can download original map, blueprints, megaprint or map for a walkthrough fr
 v1.0<br/>
 *Map by:* THE_BESTol0ch
 
-Used mods:<br/>
+*Used mods:*<br/>
 [Decoration](https://ficsit.app/mod/Decoration)<br/>
 [SkyUI](https://ficsit.app/mod/SkyUI)
 
-Used blueprints:<br/>
+*Used blueprints:*<br/>
 [Shipping container pack](https://www.reddit.com/r/SatisfactoryGame/comments/15tz4w8/shipping_container_pack/)
 
 > [!TIP]
@@ -35,97 +35,97 @@ Used blueprints:<br/>
 > In Satisfactory, it is not possible to transfer color swatches between saves, so you will have to manually assign swatch colors if you use a megaprint or maps for a walkthrough.
 >
 > ### Default
-> FICSIT Factory Swatch
+> **FICSIT Factory Swatch**
 > `#3F3F3F`
 > `#3F3F3F`
 >
-> Project Assembly Swatch
+> **Project Assembly Swatch**
 > `#FA9649`
 > `#5F668C`
 >
-> FICSIT Foundation Swatch
+> **FICSIT Foundation Swatch**
 > `#5D5D5D`
 > `#FA9649`
 >
-> Concrete Structure Swatch
+> **Concrete Structure Swatch**
 > `hsl(0,0,999)`
 > `hsl(0,0,999)`
 >
-> Pipeline Swatch
+> **Pipeline Swatch**
 > `#FA9649`
 > `#3F3F3F`
 >
 >
 >
 > ### Swatches
-> Swatch 1
+> **Swatch 1**
 > `#000000`
 > `#F4B522`
 >
-> Swatch 2
+> **Swatch 2**
 > `#FFFFFF`
 > `#FFFFFF`
 >
-> Swatch 3
+> **Swatch 3**
 > `#000000`
 > `#000000`
 >
-> Swatch 4
+> **Swatch 4**
 > `#FFFFFF`
 > `#3D3D3D`
 >
-> Swatch 5
+> **Swatch 5**
 > `#3F3F3F`
 > `#FF9500`
 >
-> Swatch 6
+> **Swatch 6**
 > `hsl(0,0,3)`
 > `hsl(0,0,3)`
 >
-> Swatch 7
+> **Swatch 7**
 > `#CB4747`
 > `#CB4747`
 >
-> Swatch 8
+> **Swatch 8**
 > `#F9E000`
 > `#33AB9C`
 >
-> Swatch 9
+> **Swatch 9**
 > `#FF9500`
 > `#FF9500`
 >
-> Swatch 10
+> **Swatch 10**
 > `#526280`
 > `#444444`
 >
-> Swatch 11
+> **Swatch 11**
 > `#959595`
 > `#959595`
 >
-> Swatch 12
+> **Swatch 12**
 > `#DEAF72`
 > `#815F3C`
 >
-> Swatch 13
+> **Swatch 13**
 > `#573800`
 > `#5B3B00`
 >
-> Swatch 14
+> **Swatch 14**
 > `#A2B95B`
 > `#A3663D`
 >
-> Swatch 15
+> **Swatch 15**
 > `#5F668C`
 > `#FA9649`
 >
-> Swatch 16
+> **Swatch 16**
 > `#6B3232`
 > `#444444`
 >
-> Swatch 17
+> **Swatch 17**
 > `#CB4747`
 > `#CB4747`
 >
-> Swatch 18
+> **Swatch 18**
 > `#2E69B0`
 > `#2E69B0`
