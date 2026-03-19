@@ -26,7 +26,7 @@ Used blueprints:<br/>
 > 4. Click on the top left button **PASTE MEGAPRINT IN THE ORIGINAL POSITION**.
 > 5. Download save game.
 > <img width="1887" height="1080" alt="image" src="https://github.com/user-attachments/assets/c2c6d4d7-dea4-4a04-b07e-eb96188ae441" />
-> https://github.com/user-attachments/assets/1c05947c-1b9c-4518-b670-bc5717ebc764
+> <img width="1887" height="1080" alt="image" src="https://github.com/user-attachments/assets/1c05947c-1b9c-4518-b670-bc5717ebc764" />
 
 
 
