@@ -130,3 +130,27 @@ v1.0<br/>
 > **Swatch 18**<br/>
 > `#2E69B0`<br/>
 > `#2E69B0`
+><br/>
+><br/>
+><br/>
+> ### Light Control Panel
+> **Swatch 1**<br/>
+> `#FFFFFF`<br/>
+>
+> **Swatch 2**<br/>
+> `#FF0000`<br/>
+>
+> **Swatch 3**<br/>
+> `#FFC17C`<br/>
+>
+> **Swatch 4**<br/>
+> `#00FF00`<br/>
+>
+> **Swatch 5**<br/>
+> `#00FFFF`<br/>
+>
+> **Swatch 6**<br/>
+> `#0000FF`<br/>
+>
+> **Swatch 7**<br/>
+> `#FF00FF`<br/>
